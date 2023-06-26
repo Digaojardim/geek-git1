@@ -1,4 +1,4 @@
 # Geek-git1
 
-corrigido!!
-corrigido!!2
+corigido!!
+corigido!!2
